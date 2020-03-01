@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Creating simple dom project",
+  "main": "index.js",
+  "scripts": {
+    "run": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NH-Ridoy/Document_Object_Model.git"
+  },
+  "author": "NH Ridoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NH-Ridoy/Document_Object_Model/issues"
+  },
+  "homepage": "https://github.com/NH-Ridoy/Document_Object_Model#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1"
+  }
+}
